@@ -1,8 +1,8 @@
 Package: PCRA
 Type: Package
 Title: Companion to Portfolio Construction and Risk Analysis
-Version: 1.0
-Date: 2023-02-26
+Version: 1.1
+Date: 2023-05-02
 Authors@R: c(person(given="Doug",family="Martin",role=c("cre","aut"),
     email="martinrd3d@gmail.com"),
     person(given="Alexios",family="Galanos",role=c("ctb"),
@@ -35,7 +35,7 @@ Copyright: (c) 2022-2023
 RoxygenNote: 7.2.3
 VignetteBuilder: R.rsp
 NeedsCompilation: no
-Packaged: 2023-03-07 06:52:24 UTC; cocok
+Packaged: 2023-05-02 07:48:03 UTC; cocok
 Author: Doug Martin [cre, aut],
   Alexios Galanos [ctb],
   Kirk Li [aut, ctb],
@@ -43,4 +43,4 @@ Author: Doug Martin [cre, aut],
   Thomas Philips [ctb]
 Maintainer: Doug Martin <martinrd3d@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-03-08 15:00:10 UTC
+Date/Publication: 2023-05-02 14:00:02 UTC

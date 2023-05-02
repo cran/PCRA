@@ -69,31 +69,6 @@
 "FRBinterestRates"
 
 
-#' @title Weekly Returns 1980
-#' 
-#' @description Weekly returns of 10 stocks and 90 day T-Bill from November
-#' 1980 through Octobber 1981.
-#'
-#' @docType data
-#'
-#' @usage data(WeeklyReturns1980)
-#'
-#' @format Multivariate time series zoo object
-#' 
-#' @source Center for Research in Security Prices, LLC (CRSP), an Affiliate of
-#' the University of Chicago Booth School of Business.
-#' 
-#' @examples
-#' library(PCRA)
-#' library(zoo)
-#' data(WeeklyReturns1980)
-#' class(WeeklyReturns1980)
-#' names(WeeklyReturns1980)
-#' head(WeeklyReturns1980,2)
-#' range(index(retDD))
-"WeeklyReturns1980"
-
-
 #' @title gfunds5
 #' 
 #' @description Monthly returns of 5 German investment funds November 1989
